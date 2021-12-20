@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @drCoilHead!
-- 👀 I’m interested in ML and data analysis.
-- 🌱 I’m currently learning ML with Python.
-- 💞️ I’m looking to collaborate on pattern detection for early detection of (destructive) changes, be they natural or man-made. Such as disinformation or environmental changes.
+👋 Hi, I’m @drCoilHead!
+👀 I’m interested in ML and data analysis.
+🌱 I’m currently learning ML with Python.
+💞️ I’m looking to collaborate on pattern detection for early detection of (destructive) changes, be they natural or man-made. Such as disinformation or environmental changes.
 - 📫 How to reach me ...
 
 <!---
