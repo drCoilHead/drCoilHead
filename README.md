@@ -1,11 +1,10 @@
 👋 Hi, I’m @drCoilHead!
 
-👀 I’m interested in ML and data analysis. (and Latin and Beethoven)
+👀 I’m interested in ML, data analysis and IoT home projects.
 
-🌱 I’m currently learning ML with Python. (and Latin!)
+🌱 I’m currently (re-)learning L1 and L2 communcation as well as practical electronics skills.
 
-💞️ I’m looking to collaborate on pattern detection for early detection of (destructive) changes, be they natural or man-made. Such as disinformation or environmental changes.
-
+💞️ I will gladly collaborate on projects running things outdoors in a cold climate, for example to check on plumbing or if pests have done something bad to a house while the owner is away for an extended period of time.
 📫 How to reach me - please ask!
 
 <!---
